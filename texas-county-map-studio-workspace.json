@@ -1,0 +1,1670 @@
+{
+  "kind": "texas-county-map-studio-workspace",
+  "exportedAt": "2026-09-03T00:58:08.461Z",
+  "countyDataset": "U.S. Census Bureau TIGERweb Generalized ACS 2025 Counties 5M",
+  "workspace": {
+    "version": 3,
+    "activeModeId": "mode-general",
+    "modes": {
+      "mode-general": {
+        "id": "mode-general",
+        "name": "General map",
+        "title": "Texas state Republic",
+        "bannerTitle": "We the People ARE the Republic",
+        "baseColor": "#d8c9a7",
+        "mapStyle": "flat",
+        "statusColors": {
+          "unassigned": "#d8c9a7",
+          "not-filled": "#c81919",
+          "filled": "#238443",
+          "in-progress": "#e0a21a",
+          "not-applicable": "#8b9397"
+        },
+        "counties": {
+          "Anderson": {
+            "population": "57,922",
+            "established": "March 24, 1846",
+            "countySeat": "Palestine",
+            "districtId": "district-02"
+          },
+          "Andrews": {
+            "population": "18,610",
+            "established": "August 21, 1876",
+            "countySeat": "Andrews",
+            "districtId": "district-01"
+          },
+          "Angelina": {
+            "population": "86,395",
+            "established": "February 4, 1846",
+            "countySeat": "Lufkin",
+            "districtId": "district-02"
+          },
+          "Aransas": {
+            "population": "23,830",
+            "established": "August 18, 1871",
+            "countySeat": "Rockport",
+            "districtId": "district-02"
+          },
+          "Archer": {
+            "population": "8,560",
+            "established": "January 22, 1858",
+            "countySeat": "Archer City",
+            "districtId": "district-02"
+          },
+          "Armstrong": {
+            "population": "1,848",
+            "established": "August 21, 1876",
+            "countySeat": "Claude",
+            "districtId": "district-01"
+          },
+          "Atascosa": {
+            "population": "48,981",
+            "established": "January 25, 1856",
+            "countySeat": "Jourdanton",
+            "districtId": "district-03"
+          },
+          "Austin": {
+            "population": "30,167",
+            "established": "December 14, 1837",
+            "countySeat": "Bellville",
+            "districtId": "district-03"
+          },
+          "Bailey": {
+            "population": "6,904",
+            "established": "August 21, 1876",
+            "countySeat": "Muleshoe",
+            "districtId": "district-01"
+          },
+          "Bandera": {
+            "population": "20,851",
+            "established": "February 1, 1856",
+            "countySeat": "Bandera",
+            "districtId": "district-03"
+          },
+          "Bastrop": {
+            "population": "97,216",
+            "established": "December 14, 1837",
+            "countySeat": "Bastrop",
+            "districtId": "district-03"
+          },
+          "Baylor": {
+            "population": "3,465",
+            "established": "December 16, 1858",
+            "countySeat": "Seymour",
+            "districtId": "district-02"
+          },
+          "Bee": {
+            "population": "31,047",
+            "established": "December 8, 1857",
+            "countySeat": "Beeville",
+            "districtId": "district-03"
+          },
+          "Bell": {
+            "population": "370,647",
+            "established": "January 22, 1850",
+            "countySeat": "Belton",
+            "districtId": "district-02"
+          },
+          "Bexar": {
+            "population": "2,009,324",
+            "established": "December 20, 1836",
+            "countySeat": "San Antonio",
+            "districtId": "district-03"
+          },
+          "Blanco": {
+            "population": "11,374",
+            "established": "February 12, 1858",
+            "countySeat": "Johnson City",
+            "districtId": "district-03"
+          },
+          "Borden": {
+            "population": "631",
+            "established": "August 21, 1876",
+            "countySeat": "Gail",
+            "districtId": "district-01"
+          },
+          "Bosque": {
+            "population": "18,235",
+            "established": "February 4, 1854",
+            "countySeat": "Meridian",
+            "districtId": "district-02"
+          },
+          "Bowie": {
+            "population": "92,893",
+            "established": "December 17, 1840",
+            "countySeat": "Boston",
+            "districtId": "district-02"
+          },
+          "Brazoria": {
+            "population": "372,031",
+            "established": "December 14, 1837",
+            "countySeat": "Angleton",
+            "districtId": "district-03"
+          },
+          "Brazos": {
+            "population": "233,849",
+            "established": "February 1, 1841",
+            "countySeat": "Bryan",
+            "districtId": "district-03"
+          },
+          "Brewster": {
+            "population": "9,546",
+            "established": "February 5, 1887",
+            "countySeat": "Alpine",
+            "districtId": "district-01"
+          },
+          "Briscoe": {
+            "population": "1,435",
+            "established": "August 21, 1876",
+            "countySeat": "Silverton",
+            "districtId": "district-01"
+          },
+          "Brooks": {
+            "population": "7,076",
+            "established": "April 11, 1911",
+            "countySeat": "Falfurrias",
+            "districtId": "district-03"
+          },
+          "Brown": {
+            "population": "38,095",
+            "established": "February 1, 1856",
+            "countySeat": "Brownwood",
+            "districtId": "district-02"
+          },
+          "Burleson": {
+            "population": "17,642",
+            "established": "August 31, 1846",
+            "countySeat": "Caldwell",
+            "districtId": "district-03"
+          },
+          "Burnet": {
+            "population": "49,130",
+            "established": "February 5, 1852",
+            "countySeat": "Burnet",
+            "districtId": "district-02"
+          },
+          "Caldwell": {
+            "population": "45,883",
+            "established": "March 6, 1848",
+            "countySeat": "Lockhart",
+            "districtId": "district-03"
+          },
+          "Calhoun": {
+            "population": "20,106",
+            "established": "April 4, 1846",
+            "countySeat": "Port Lavaca",
+            "districtId": "district-03"
+          },
+          "Callahan": {
+            "population": "13,943",
+            "established": "February 1, 1858",
+            "countySeat": "Baird",
+            "districtId": "district-02"
+          },
+          "Cameron": {
+            "population": "421,017",
+            "established": "February 12, 1848",
+            "countySeat": "Brownsville",
+            "districtId": "district-03"
+          },
+          "Camp": {
+            "population": "13,094",
+            "established": "April 6, 1874",
+            "countySeat": "Pittsburg",
+            "districtId": "district-02"
+          },
+          "Carson": {
+            "population": "5,807",
+            "established": "August 21, 1876",
+            "countySeat": "Panhandle",
+            "districtId": "district-01"
+          },
+          "Cass": {
+            "population": "28,454",
+            "established": "May 13, 1846",
+            "countySeat": "Linden",
+            "districtId": "district-02"
+          },
+          "Castro": {
+            "population": "7,692",
+            "established": "August 21, 1876",
+            "countySeat": "Dimmitt",
+            "districtId": "district-01"
+          },
+          "Chambers": {
+            "population": "48,865",
+            "established": "February 5, 1858",
+            "countySeat": "Anahuac",
+            "districtId": "district-03"
+          },
+          "Cherokee": {
+            "population": "50,845",
+            "established": "April 11, 1846",
+            "countySeat": "Rusk",
+            "districtId": "district-02"
+          },
+          "Childress": {
+            "population": "6,664",
+            "established": "August 21, 1876",
+            "countySeat": "Childress",
+            "districtId": "district-01"
+          },
+          "Clay": {
+            "population": "10,218",
+            "established": "December 24, 1857",
+            "countySeat": "Henrietta",
+            "districtId": "district-02"
+          },
+          "Cochran": {
+            "population": "2,547",
+            "established": "August 21, 1876",
+            "countySeat": "Morton",
+            "districtId": "district-01"
+          },
+          "Coke": {
+            "population": "3,387",
+            "established": "March 13, 1889",
+            "countySeat": "Robert Lee",
+            "districtId": "district-01"
+          },
+          "Coleman": {
+            "population": "7,684",
+            "established": "February 1, 1858",
+            "countySeat": "Coleman",
+            "districtId": "district-02"
+          },
+          "Collin": {
+            "population": "1,064,465",
+            "established": "April 3, 1846",
+            "countySeat": "McKinney",
+            "districtId": "district-02"
+          },
+          "Collingsworth": {
+            "population": "2,920",
+            "established": "August 21, 1876",
+            "countySeat": "Wellington",
+            "districtId": "district-01"
+          },
+          "Colorado": {
+            "population": "20,557",
+            "established": "December 14, 1837",
+            "countySeat": "Columbus",
+            "districtId": "district-03"
+          },
+          "Comal": {
+            "population": "161,501",
+            "established": "January 24, 1846",
+            "countySeat": "New Braunfels",
+            "districtId": "district-03"
+          },
+          "Comanche": {
+            "population": "13,596",
+            "established": "January 25, 1856",
+            "countySeat": "Comanche",
+            "districtId": "district-02"
+          },
+          "Concho": {
+            "population": "3,303",
+            "established": "March 13, 1889",
+            "countySeat": "Paint Rock",
+            "districtId": "district-01"
+          },
+          "Cooke": {
+            "population": "41,668",
+            "established": "March 20, 1848",
+            "countySeat": "Gainesville",
+            "districtId": "district-02"
+          },
+          "Coryell": {
+            "population": "83,093",
+            "established": "March 4, 1854",
+            "countySeat": "Gatesville",
+            "districtId": "district-02"
+          },
+          "Cottle": {
+            "population": "1,380",
+            "established": "August 21, 1876",
+            "countySeat": "Paducah",
+            "districtId": "district-01"
+          },
+          "Crane": {
+            "population": "4,675",
+            "established": "April 18, 1927",
+            "countySeat": "Crane",
+            "districtId": "district-01"
+          },
+          "Crockett": {
+            "population": "3,265",
+            "established": "January 12, 1875",
+            "countySeat": "Ozona",
+            "districtId": "district-01"
+          },
+          "Crosby": {
+            "population": "5,899",
+            "established": "August 21, 1876",
+            "countySeat": "Crosbyton",
+            "districtId": "district-01"
+          },
+          "Culberson": {
+            "population": "2,188",
+            "established": "March 8, 1911",
+            "countySeat": "Van Horn",
+            "districtId": "district-01"
+          },
+          "Dallam": {
+            "population": "7,058",
+            "established": "August 21, 1876",
+            "countySeat": "Dalhart",
+            "districtId": "district-01"
+          },
+          "Dallas": {
+            "population": "2,613,539",
+            "established": "March 30, 1846",
+            "countySeat": "Dallas",
+            "districtId": "district-02"
+          },
+          "Dawson": {
+            "population": "12,728",
+            "established": "August 21, 1876",
+            "countySeat": "Lamesa",
+            "districtId": "district-01"
+          },
+          "Deaf Smith": {
+            "population": "18,583",
+            "established": "August 21, 1876",
+            "countySeat": "Hereford",
+            "districtId": "district-01"
+          },
+          "Delta": {
+            "population": "5,523",
+            "established": "February 5, 1870",
+            "countySeat": "Cooper",
+            "districtId": "district-02"
+          },
+          "Denton": {
+            "population": "906,422",
+            "established": "April 11, 1846",
+            "countySeat": "Denton",
+            "districtId": "district-02"
+          },
+          "DeWitt": {
+            "population": "19,824",
+            "established": "April 2, 1846",
+            "countySeat": "Cuero",
+            "districtId": "district-03"
+          },
+          "Dickens": {
+            "population": "2,205",
+            "established": "August 21, 1876",
+            "countySeat": "Dickens",
+            "districtId": "district-01"
+          },
+          "Dimmit": {
+            "population": "8,615",
+            "established": "August 18, 1880",
+            "countySeat": "Carrizo Springs",
+            "districtId": "district-03"
+          },
+          "Donley": {
+            "population": "3,278",
+            "established": "August 21, 1876",
+            "countySeat": "Clarendon",
+            "districtId": "district-01"
+          },
+          "Duval": {
+            "population": "9,831",
+            "established": "March 18, 1858",
+            "countySeat": "San Diego",
+            "districtId": "district-03"
+          },
+          "Eastland": {
+            "population": "17,725",
+            "established": "December 16, 1858",
+            "countySeat": "Eastland",
+            "districtId": "district-02"
+          },
+          "Ector": {
+            "population": "165,171",
+            "established": "August 21, 1876",
+            "countySeat": "Odessa",
+            "districtId": "district-01"
+          },
+          "Edwards": {
+            "population": "1,422",
+            "established": "February 1, 1858",
+            "countySeat": "Rocksprings",
+            "districtId": "district-03"
+          },
+          "El Paso": {
+            "population": "865,657",
+            "established": "March 17, 1850",
+            "countySeat": "El Paso",
+            "districtId": "district-01"
+          },
+          "Ellis": {
+            "population": "192,455",
+            "established": "December 20, 1849",
+            "countySeat": "Waxahachie",
+            "districtId": "district-02"
+          },
+          "Erath": {
+            "population": "42,545",
+            "established": "January 25, 1856",
+            "countySeat": "Stephenville",
+            "districtId": "district-02"
+          },
+          "Falls": {
+            "population": "16,968",
+            "established": "January 28, 1850",
+            "countySeat": "Marlin",
+            "districtId": "district-02"
+          },
+          "Fannin": {
+            "population": "35,662",
+            "established": "December 14, 1837",
+            "countySeat": "Bonham",
+            "districtId": "district-02"
+          },
+          "Fayette": {
+            "population": "24,435",
+            "established": "December 14, 1837",
+            "countySeat": "La Grange",
+            "districtId": "district-03"
+          },
+          "Fisher": {
+            "population": "3,624",
+            "established": "February 1, 1858",
+            "countySeat": "Roby",
+            "districtId": "district-01"
+          },
+          "Floyd": {
+            "population": "5,981",
+            "established": "August 21, 1876",
+            "countySeat": "Floydada",
+            "districtId": "district-01"
+          },
+          "Foard": {
+            "population": "1,095",
+            "established": "August 21, 1876",
+            "countySeat": "Crowell",
+            "districtId": "district-01"
+          },
+          "Fort Bend": {
+            "population": "822,779",
+            "established": "December 29, 1837",
+            "countySeat": "Richmond",
+            "districtId": "district-03"
+          },
+          "Franklin": {
+            "population": "10,359",
+            "established": "March 11, 1875",
+            "countySeat": "Mount Vernon",
+            "districtId": "district-02"
+          },
+          "Freestone": {
+            "population": "19,435",
+            "established": "December 14, 1837",
+            "countySeat": "Fairfield",
+            "districtId": "district-02"
+          },
+          "Frio": {
+            "population": "18,385",
+            "established": "April 2, 1871",
+            "countySeat": "Pearsall",
+            "districtId": "district-03"
+          },
+          "Gaines": {
+            "population": "21,598",
+            "established": "August 21, 1876",
+            "countySeat": "Seminole",
+            "districtId": "district-01"
+          },
+          "Galveston": {
+            "population": "350,682",
+            "established": "May 15, 1838",
+            "countySeat": "Galveston",
+            "districtId": "district-03"
+          },
+          "Garza": {
+            "population": "6,577",
+            "established": "August 21, 1876",
+            "countySeat": "Post",
+            "districtId": "district-01"
+          },
+          "Gillespie": {
+            "population": "26,725",
+            "established": "February 23, 1848",
+            "countySeat": "Fredericksburg",
+            "districtId": "district-03"
+          },
+          "Glasscock": {
+            "population": "1,176",
+            "established": "August 21, 1876",
+            "countySeat": "Garden City",
+            "districtId": "district-01"
+          },
+          "Goliad": {
+            "population": "7,012",
+            "established": "March 17, 1836",
+            "countySeat": "Goliad",
+            "districtId": "district-03"
+          },
+          "Gonzales": {
+            "population": "19,653",
+            "established": "December 14, 1837",
+            "countySeat": "Gonzales",
+            "districtId": "district-03"
+          },
+          "Gray": {
+            "population": "21,227",
+            "established": "August 21, 1876",
+            "countySeat": "Pampa",
+            "districtId": "district-01"
+          },
+          "Grayson": {
+            "population": "135,543",
+            "established": "March 17, 1846",
+            "countySeat": "Sherman",
+            "districtId": "district-02"
+          },
+          "Gregg": {
+            "population": "124,239",
+            "established": "April 12, 1873",
+            "countySeat": "Longview",
+            "districtId": "district-02"
+          },
+          "Grimes": {
+            "population": "29,268",
+            "established": "April 6, 1846",
+            "countySeat": "Anderson",
+            "districtId": "district-03"
+          },
+          "Guadalupe": {
+            "population": "172,706",
+            "established": "March 30, 1846",
+            "countySeat": "Seguin",
+            "districtId": "district-03"
+          },
+          "Hale": {
+            "population": "32,522",
+            "established": "August 21, 1876",
+            "countySeat": "Plainview",
+            "districtId": "district-01"
+          },
+          "Hall": {
+            "population": "2,825",
+            "established": "August 21, 1876",
+            "countySeat": "Memphis",
+            "districtId": "district-01"
+          },
+          "Hamilton": {
+            "population": "8,222",
+            "established": "January 22, 1858",
+            "countySeat": "Hamilton",
+            "districtId": "district-02"
+          },
+          "Hansford": {
+            "population": "5,399",
+            "established": "August 21, 1876",
+            "countySeat": "Spearman",
+            "districtId": "district-01"
+          },
+          "Hardeman": {
+            "population": "3,549",
+            "established": "February 1, 1858",
+            "countySeat": "Quanah",
+            "districtId": "district-01"
+          },
+          "Hardin": {
+            "population": "57,139",
+            "established": "January 22, 1858",
+            "countySeat": "Kountze",
+            "districtId": "district-03"
+          },
+          "Harris": {
+            "population": "4,731,145",
+            "established": "December 30, 1836",
+            "countySeat": "Houston",
+            "districtId": "district-03"
+          },
+          "Harrison": {
+            "population": "68,839",
+            "established": "February 22, 1839",
+            "countySeat": "Marshall",
+            "districtId": "district-02"
+          },
+          "Hartley": {
+            "population": "5,382",
+            "established": "August 21, 1876",
+            "countySeat": "Channing",
+            "districtId": "district-01"
+          },
+          "Haskell": {
+            "population": "5,416",
+            "established": "February 1, 1858",
+            "countySeat": "Haskell",
+            "districtId": "district-01"
+          },
+          "Hays": {
+            "population": "241,067",
+            "established": "March 1, 1848",
+            "countySeat": "San Marcos",
+            "districtId": "district-03"
+          },
+          "Hemphill": {
+            "population": "3,382",
+            "established": "August 21, 1876",
+            "countySeat": "Canadian",
+            "districtId": "district-01"
+          },
+          "Henderson": {
+            "population": "82,150",
+            "established": "April 2, 1846",
+            "countySeat": "Athens",
+            "districtId": "district-02"
+          },
+          "Hidalgo": {
+            "population": "870,781",
+            "established": "January 24, 1852",
+            "countySeat": "Edinburg",
+            "districtId": "district-03"
+          },
+          "Hill": {
+            "population": "36,649",
+            "established": "February 1, 1853",
+            "countySeat": "Hillsboro",
+            "districtId": "district-02"
+          },
+          "Hockley": {
+            "population": "21,537",
+            "established": "August 21, 1876",
+            "countySeat": "Levelland",
+            "districtId": "district-01"
+          },
+          "Hood": {
+            "population": "61,598",
+            "established": "November 2, 1866",
+            "countySeat": "Granbury",
+            "districtId": "district-02"
+          },
+          "Hopkins": {
+            "population": "37,084",
+            "established": "March 11, 1870",
+            "countySeat": "Sulphur Springs",
+            "districtId": "district-02"
+          },
+          "Houston": {
+            "population": "23,732",
+            "established": "June 12, 1837",
+            "countySeat": "Crockett",
+            "districtId": "district-02"
+          },
+          "Howard": {
+            "population": "34,860",
+            "established": "August 21, 1876",
+            "countySeat": "Big Spring",
+            "districtId": "district-01"
+          },
+          "Hudspeth": {
+            "population": "3,202",
+            "established": "February 2, 1917",
+            "countySeat": "Sierra Blanca",
+            "districtId": "district-01"
+          },
+          "Hunt": {
+            "population": "98,594",
+            "established": "April 11, 1846",
+            "countySeat": "Greenville",
+            "districtId": "district-02"
+          },
+          "Hutchinson": {
+            "population": "20,617",
+            "established": "August 21, 1876",
+            "countySeat": "Stinnett",
+            "districtId": "district-01"
+          },
+          "Irion": {
+            "population": "1,513",
+            "established": "March 13, 1889",
+            "countySeat": "Mertzon",
+            "districtId": "district-01"
+          },
+          "Jack": {
+            "population": "8,472",
+            "established": "August 27, 1856",
+            "countySeat": "Jacksboro",
+            "districtId": "district-02"
+          },
+          "Jackson": {
+            "population": "14,988",
+            "established": "March 17, 1836",
+            "countySeat": "Edna",
+            "districtId": "district-03"
+          },
+          "Jasper": {
+            "population": "35,710",
+            "established": "March 15, 1836",
+            "countySeat": "Jasper",
+            "districtId": "district-03"
+          },
+          "Jeff Davis": {
+            "population": "2,207",
+            "established": "March 15, 1887",
+            "countySeat": "Fort Davis",
+            "districtId": "district-01"
+          },
+          "Jefferson": {
+            "population": "256,526",
+            "established": "December 21, 1837",
+            "countySeat": "Beaumont",
+            "districtId": "district-03"
+          },
+          "Jim Hogg": {
+            "population": "4,838",
+            "established": "March 31, 1913",
+            "countySeat": "Hebbronville",
+            "districtId": "district-03"
+          },
+          "Jim Wells": {
+            "population": "38,891",
+            "established": "March 18, 1911",
+            "countySeat": "Alice",
+            "districtId": "district-03"
+          },
+          "Johnson": {
+            "population": "179,927",
+            "established": "February 13, 1854",
+            "countySeat": "Cleburne",
+            "districtId": "district-02"
+          },
+          "Jones": {
+            "population": "19,663",
+            "established": "February 1, 1858",
+            "countySeat": "Anson",
+            "districtId": "district-01"
+          },
+          "Karnes": {
+            "population": "14,710",
+            "established": "February 4, 1854",
+            "countySeat": "Karnes City",
+            "districtId": "district-03"
+          },
+          "Kaufman": {
+            "population": "145,310",
+            "established": "February 26, 1848",
+            "countySeat": "Kaufman",
+            "districtId": "district-02"
+          },
+          "Kendall": {
+            "population": "44,279",
+            "established": "January 10, 1862",
+            "countySeat": "Boerne",
+            "districtId": "district-03"
+          },
+          "Kenedy": {
+            "population": "350",
+            "established": "March 28, 1921",
+            "countySeat": "Sarita",
+            "districtId": "district-03"
+          },
+          "Kent": {
+            "population": "762",
+            "established": "August 21, 1876",
+            "countySeat": "Jayton",
+            "districtId": "district-01"
+          },
+          "Kerr": {
+            "population": "52,598",
+            "established": "January 26, 1856",
+            "countySeat": "Kerrville",
+            "districtId": "district-03"
+          },
+          "Kimble": {
+            "population": "4,172",
+            "established": "January 22, 1858",
+            "countySeat": "Junction",
+            "districtId": "district-03"
+          },
+          "King": {
+            "population": "265",
+            "established": "August 21, 1876",
+            "countySeat": "Guthrie",
+            "districtId": "district-01"
+          },
+          "Kinney": {
+            "population": "3,129",
+            "established": "January 22, 1850",
+            "countySeat": "Brackettville",
+            "districtId": "district-03"
+          },
+          "Kleberg": {
+            "population": "31,040",
+            "established": "April 8, 1913",
+            "countySeat": "Kingsville",
+            "districtId": "district-03"
+          },
+          "Knox": {
+            "population": "3,353",
+            "established": "February 1, 1858",
+            "countySeat": "Benjamin",
+            "districtId": "district-01"
+          },
+          "La Salle": {
+            "population": "6,664",
+            "established": "March 30, 1880",
+            "countySeat": "Cotulla",
+            "districtId": "district-03"
+          },
+          "Lamar": {
+            "population": "50,088",
+            "established": "December 17, 1840",
+            "countySeat": "Paris",
+            "districtId": "district-02"
+          },
+          "Lamb": {
+            "population": "12,893",
+            "established": "August 21, 1876",
+            "countySeat": "Littlefield",
+            "districtId": "district-01"
+          },
+          "Lampasas": {
+            "population": "21,627",
+            "established": "March 1, 1856",
+            "countySeat": "Lampasas",
+            "districtId": "district-02"
+          },
+          "Lavaca": {
+            "population": "20,337",
+            "established": "December 21, 1846",
+            "countySeat": "Hallettsville",
+            "districtId": "district-03"
+          },
+          "Lee": {
+            "population": "17,239",
+            "established": "April 17, 1874",
+            "countySeat": "Giddings",
+            "districtId": "district-03"
+          },
+          "Leon": {
+            "population": "15,719",
+            "established": "April 6, 1846",
+            "countySeat": "Centerville",
+            "districtId": "district-02"
+          },
+          "Liberty": {
+            "population": "91,628",
+            "established": "February 5, 1836",
+            "countySeat": "Liberty",
+            "districtId": "district-03"
+          },
+          "Limestone": {
+            "population": "23,437",
+            "established": "April 11, 1846",
+            "countySeat": "Groesbeck",
+            "districtId": "district-02"
+          },
+          "Lipscomb": {
+            "population": "3,059",
+            "established": "August 21, 1876",
+            "countySeat": "Lipscomb",
+            "districtId": "district-01"
+          },
+          "Live Oak": {
+            "population": "11,335",
+            "established": "February 2, 1856",
+            "countySeat": "George West",
+            "districtId": "district-03"
+          },
+          "Llano": {
+            "population": "21,243",
+            "established": "February 1, 1856",
+            "countySeat": "Llano",
+            "districtId": "district-03"
+          },
+          "Loving": {
+            "population": "64",
+            "established": "February 5, 1887",
+            "countySeat": "Mentone",
+            "districtId": "district-01"
+          },
+          "Lubbock": {
+            "population": "310,639",
+            "established": "August 21, 1876",
+            "countySeat": "Lubbock",
+            "districtId": "district-01"
+          },
+          "Lynn": {
+            "population": "5,596",
+            "established": "August 21, 1876",
+            "countySeat": "Tahoka",
+            "districtId": "district-01"
+          },
+          "Madison": {
+            "population": "13,664",
+            "established": "February 2, 1854",
+            "countySeat": "Madisonville",
+            "districtId": "district-03"
+          },
+          "Marion": {
+            "population": "9,725",
+            "established": "February 8, 1860",
+            "countySeat": "Jefferson",
+            "districtId": "district-02"
+          },
+          "Martin": {
+            "population": "5,237",
+            "established": "August 21, 1876",
+            "countySeat": "Stanton",
+            "districtId": "district-01"
+          },
+          "Mason": {
+            "population": "4,012",
+            "established": "January 22, 1858",
+            "countySeat": "Mason",
+            "districtId": "district-03"
+          },
+          "Matagorda": {
+            "population": "36,255",
+            "established": "December 29, 1837",
+            "countySeat": "Bay City",
+            "districtId": "district-03"
+          },
+          "Maverick": {
+            "population": "57,887",
+            "established": "January 23, 1856",
+            "countySeat": "Eagle Pass",
+            "districtId": "district-03"
+          },
+          "McCulloch": {
+            "population": "7,630",
+            "established": "August 21, 1876",
+            "countySeat": "Brady",
+            "districtId": "district-02"
+          },
+          "McLennan": {
+            "population": "260,579",
+            "established": "January 22, 1850",
+            "countySeat": "Waco",
+            "districtId": "district-02"
+          },
+          "McMullen": {
+            "population": "600",
+            "established": "March 13, 1877",
+            "countySeat": "Tilden",
+            "districtId": "district-03"
+          },
+          "Medina": {
+            "population": "51,584",
+            "established": "February 12, 1848",
+            "countySeat": "Hondo",
+            "districtId": "district-03"
+          },
+          "Menard": {
+            "population": "1,969",
+            "established": "February 1, 1858",
+            "countySeat": "Menard",
+            "districtId": "district-03"
+          },
+          "Midland": {
+            "population": "169,983",
+            "established": "August 21, 1876",
+            "countySeat": "Midland",
+            "districtId": "district-01"
+          },
+          "Milam": {
+            "population": "24,754",
+            "established": "December 20, 1837",
+            "countySeat": "Cameron",
+            "districtId": "district-02"
+          },
+          "Mills": {
+            "population": "4,456",
+            "established": "March 15, 1887",
+            "countySeat": "Goldthwaite",
+            "districtId": "district-02"
+          },
+          "Mitchell": {
+            "population": "8,730",
+            "established": "January 15, 1881",
+            "countySeat": "Colorado City",
+            "districtId": "district-01"
+          },
+          "Montague": {
+            "population": "19,965",
+            "established": "December 24, 1857",
+            "countySeat": "Montague",
+            "districtId": "district-02"
+          },
+          "Montgomery": {
+            "population": "620,443",
+            "established": "December 14, 1837",
+            "countySeat": "Conroe",
+            "districtId": "district-03"
+          },
+          "Moore": {
+            "population": "20,565",
+            "established": "August 21, 1876",
+            "countySeat": "Dumas",
+            "districtId": "district-01"
+          },
+          "Morris": {
+            "population": "11,973",
+            "established": "March 13, 1875",
+            "countySeat": "Daingerfield",
+            "districtId": "district-02"
+          },
+          "Motley": {
+            "population": "1,063",
+            "established": "August 21, 1876",
+            "countySeat": "Matador",
+            "districtId": "district-01"
+          },
+          "Nacogdoches": {
+            "population": "64,823",
+            "established": "June 17, 1837",
+            "countySeat": "Nacogdoches",
+            "districtId": "district-02"
+          },
+          "Navarro": {
+            "population": "53,710",
+            "established": "April 25, 1846",
+            "countySeat": "Corsicana",
+            "districtId": "district-02"
+          },
+          "Newton": {
+            "population": "12,217",
+            "established": "April 22, 1846",
+            "countySeat": "Newton",
+            "districtId": "district-03"
+          },
+          "Nolan": {
+            "population": "14,554",
+            "established": "February 1, 1858",
+            "countySeat": "Sweetwater",
+            "districtId": "district-01"
+          },
+          "Nueces": {
+            "population": "353,178",
+            "established": "March 18, 1846",
+            "countySeat": "Corpus Christi",
+            "districtId": "district-03"
+          },
+          "Ochiltree": {
+            "population": "10,015",
+            "established": "August 21, 1876",
+            "countySeat": "Perryton",
+            "districtId": "district-01"
+          },
+          "Oldham": {
+            "population": "1,758",
+            "established": "August 21, 1876",
+            "countySeat": "Vega",
+            "districtId": "district-01"
+          },
+          "Orange": {
+            "population": "84,808",
+            "established": "January 5, 1852",
+            "countySeat": "Orange",
+            "districtId": "district-03"
+          },
+          "Palo Pinto": {
+            "population": "28,409",
+            "established": "August 27, 1856",
+            "countySeat": "Palo Pinto",
+            "districtId": "district-02"
+          },
+          "Panola": {
+            "population": "22,491",
+            "established": "March 30, 1846",
+            "countySeat": "Carthage",
+            "districtId": "district-02"
+          },
+          "Parker": {
+            "population": "148,222",
+            "established": "December 12, 1855",
+            "countySeat": "Weatherford",
+            "districtId": "district-02"
+          },
+          "Parmer": {
+            "population": "9,869",
+            "established": "August 21, 1876",
+            "countySeat": "Farwell",
+            "districtId": "district-01"
+          },
+          "Pecos": {
+            "population": "15,193",
+            "established": "March 30, 1871",
+            "countySeat": "Fort Stockton",
+            "districtId": "district-01"
+          },
+          "Polk": {
+            "population": "50,123",
+            "established": "March 30, 1846",
+            "countySeat": "Livingston",
+            "districtId": "district-03"
+          },
+          "Potter": {
+            "population": "118,525",
+            "established": "August 21, 1876",
+            "countySeat": "Amarillo",
+            "districtId": "district-01"
+          },
+          "Presidio": {
+            "population": "6,131",
+            "established": "January 3, 1850",
+            "countySeat": "Marfa",
+            "districtId": "district-01"
+          },
+          "Rains": {
+            "population": "12,164",
+            "established": "June 9, 1870",
+            "countySeat": "Emory",
+            "districtId": "district-02"
+          },
+          "Randall": {
+            "population": "140,753",
+            "established": "August 21, 1876",
+            "countySeat": "Canyon",
+            "districtId": "district-01"
+          },
+          "Reagan": {
+            "population": "3,384",
+            "established": "March 13, 1903",
+            "countySeat": "Big Lake",
+            "districtId": "district-01"
+          },
+          "Real": {
+            "population": "2,758",
+            "established": "April 1, 1913",
+            "countySeat": "Leakey",
+            "districtId": "district-03"
+          },
+          "Red River": {
+            "population": "12,860",
+            "established": "December 17, 1837",
+            "countySeat": "Clarksville",
+            "districtId": "district-02"
+          },
+          "Reeves": {
+            "population": "14,748",
+            "established": "March 14, 1883",
+            "countySeat": "Pecos",
+            "districtId": "district-01"
+          },
+          "Refugio": {
+            "population": "6,741",
+            "established": "March 11, 1837",
+            "countySeat": "Refugio",
+            "districtId": "district-03"
+          },
+          "Roberts": {
+            "population": "827",
+            "established": "August 21, 1876",
+            "countySeat": "Miami",
+            "districtId": "district-01"
+          },
+          "Robertson": {
+            "population": "16,757",
+            "established": "March 17, 1837",
+            "countySeat": "Franklin",
+            "districtId": "district-02"
+          },
+          "Rockwall": {
+            "population": "107,819",
+            "established": "April 17, 1873",
+            "countySeat": "Rockwall",
+            "districtId": "district-02"
+          },
+          "Runnels": {
+            "population": "10,501",
+            "established": "February 1, 1858",
+            "countySeat": "Ballinger",
+            "districtId": "district-01"
+          },
+          "Rusk": {
+            "population": "52,214",
+            "established": "January 16, 1843",
+            "countySeat": "Henderson",
+            "districtId": "district-02"
+          },
+          "Sabine": {
+            "population": "9,894",
+            "established": "December 14, 1837",
+            "countySeat": "Hemphill",
+            "districtId": "district-02"
+          },
+          "San Augustine": {
+            "population": "8,650",
+            "established": "March 14, 1837",
+            "countySeat": "San Augustine",
+            "districtId": "district-02"
+          },
+          "San Jacinto": {
+            "population": "27,402",
+            "established": "August 13, 1870",
+            "countySeat": "Coldspring",
+            "districtId": "district-03"
+          },
+          "San Patricio": {
+            "population": "67,215",
+            "established": "March 17, 1836",
+            "countySeat": "Sinton",
+            "districtId": "district-03"
+          },
+          "San Saba": {
+            "population": "5,730",
+            "established": "February 1, 1856",
+            "countySeat": "San Saba",
+            "districtId": "district-02"
+          },
+          "Schleicher": {
+            "population": "2,451",
+            "established": "April 5, 1887",
+            "countySeat": "Eldorado",
+            "districtId": "district-01"
+          },
+          "Scurry": {
+            "population": "16,932",
+            "established": "August 21, 1876",
+            "countySeat": "Snyder",
+            "districtId": "district-01"
+          },
+          "Shackelford": {
+            "population": "3,105",
+            "established": "February 1, 1858",
+            "countySeat": "Albany",
+            "districtId": "district-02"
+          },
+          "Shelby": {
+            "population": "24,092",
+            "established": "April 6, 1837",
+            "countySeat": "Center",
+            "districtId": "district-02"
+          },
+          "Sherman": {
+            "population": "3,127",
+            "established": "August 21, 1876",
+            "countySeat": "Stratford",
+            "districtId": "district-01"
+          },
+          "Smith": {
+            "population": "233,479",
+            "established": "April 11, 1846",
+            "countySeat": "Tyler",
+            "districtId": "district-02"
+          },
+          "Somervell": {
+            "population": "9,205",
+            "established": "March 17, 1875",
+            "countySeat": "Glen Rose",
+            "districtId": "district-02"
+          },
+          "Starr": {
+            "population": "64,454",
+            "established": "February 10, 1848",
+            "countySeat": "Rio Grande City",
+            "districtId": "district-03"
+          },
+          "Stephens": {
+            "population": "9,101",
+            "established": "August 21, 1876",
+            "countySeat": "Breckenridge",
+            "districtId": "district-02"
+          },
+          "Sterling": {
+            "population": "1,372",
+            "established": "March 13, 1891",
+            "countySeat": "Sterling City",
+            "districtId": "district-01"
+          },
+          "Stonewall": {
+            "population": "1,245",
+            "established": "August 21, 1876",
+            "countySeat": "Aspermont",
+            "districtId": "district-01"
+          },
+          "Sutton": {
+            "population": "3,372",
+            "established": "February 1, 1887",
+            "countySeat": "Sonora",
+            "districtId": "district-01"
+          },
+          "Swisher": {
+            "population": "7,504",
+            "established": "August 21, 1876",
+            "countySeat": "Tulia",
+            "districtId": "district-01"
+          },
+          "Tarrant": {
+            "population": "2,110,640",
+            "established": "December 20, 1849",
+            "countySeat": "Fort Worth",
+            "districtId": "district-02"
+          },
+          "Taylor": {
+            "population": "143,208",
+            "established": "January 22, 1858",
+            "countySeat": "Abilene",
+            "districtId": "district-01"
+          },
+          "Terrell": {
+            "population": "760",
+            "established": "February 16, 1905",
+            "countySeat": "Sanderson",
+            "districtId": "district-01"
+          },
+          "Terry": {
+            "population": "12,237",
+            "established": "August 21, 1876",
+            "countySeat": "Brownfield",
+            "districtId": "district-01"
+          },
+          "Throckmorton": {
+            "population": "1,440",
+            "established": "February 1, 1858",
+            "countySeat": "Throckmorton",
+            "districtId": "district-02"
+          },
+          "Titus": {
+            "population": "31,247",
+            "established": "May 11, 1846",
+            "countySeat": "Mount Pleasant",
+            "districtId": "district-02"
+          },
+          "Tom Green": {
+            "population": "120,003",
+            "established": "March 13, 1874",
+            "countySeat": "San Angelo",
+            "districtId": "district-01"
+          },
+          "Travis": {
+            "population": "1,290,188",
+            "established": "January 13, 1840",
+            "countySeat": "Austin",
+            "districtId": "district-03"
+          },
+          "Trinity": {
+            "population": "13,602",
+            "established": "February 2, 1850",
+            "countySeat": "Groveton",
+            "districtId": "district-02"
+          },
+          "Tyler": {
+            "population": "20,871",
+            "established": "April 3, 1846",
+            "countySeat": "Woodville",
+            "districtId": "district-03"
+          },
+          "Upshur": {
+            "population": "40,892",
+            "established": "April 17, 1846",
+            "countySeat": "Gilmer",
+            "districtId": "district-02"
+          },
+          "Upton": {
+            "population": "3,308",
+            "established": "March 13, 1887",
+            "countySeat": "Rankin",
+            "districtId": "district-01"
+          },
+          "Uvalde": {
+            "population": "24,564",
+            "established": "February 2, 1856",
+            "countySeat": "Uvalde",
+            "districtId": "district-03"
+          },
+          "Val Verde": {
+            "population": "47,586",
+            "established": "January 15, 1885",
+            "countySeat": "Del Rio",
+            "districtId": "district-01"
+          },
+          "Van Zandt": {
+            "population": "59,541",
+            "established": "March 20, 1848",
+            "countySeat": "Canton",
+            "districtId": "district-02"
+          },
+          "Victoria": {
+            "population": "91,319",
+            "established": "December 21, 1837",
+            "countySeat": "Victoria",
+            "districtId": "district-03"
+          },
+          "Walker": {
+            "population": "76,623",
+            "established": "April 6, 1846",
+            "countySeat": "Huntsville",
+            "districtId": "district-03"
+          },
+          "Waller": {
+            "population": "56,794",
+            "established": "April 6, 1873",
+            "countySeat": "Hempstead",
+            "districtId": "district-03"
+          },
+          "Ward": {
+            "population": "11,644",
+            "established": "April 30, 1887",
+            "countySeat": "Monahans",
+            "districtId": "district-01"
+          },
+          "Washington": {
+            "population": "35,805",
+            "established": "March 17, 1836",
+            "countySeat": "Brenham",
+            "districtId": "district-03"
+          },
+          "Webb": {
+            "population": "267,114",
+            "established": "December 20, 1848",
+            "countySeat": "Laredo",
+            "districtId": "district-03"
+          },
+          "Wharton": {
+            "population": "41,570",
+            "established": "February 2, 1846",
+            "countySeat": "Wharton",
+            "districtId": "district-03"
+          },
+          "Wheeler": {
+            "population": "4,990",
+            "established": "August 21, 1876",
+            "countySeat": "Wheeler",
+            "districtId": "district-01"
+          },
+          "Wichita": {
+            "population": "131,500",
+            "established": "February 1, 1858",
+            "countySeat": "Wichita Falls",
+            "districtId": "district-02"
+          },
+          "Wilbarger": {
+            "population": "12,887",
+            "established": "February 1, 1858",
+            "countySeat": "Vernon",
+            "districtId": "district-02"
+          },
+          "Willacy": {
+            "population": "20,164",
+            "established": "February 12, 1911",
+            "countySeat": "Raymondville",
+            "districtId": "district-03"
+          },
+          "Williamson": {
+            "population": "609,017",
+            "established": "March 13, 1848",
+            "countySeat": "Georgetown",
+            "districtId": "district-02",
+            "clickable": true,
+            "status": "in-progress",
+            "linkLabel": "Learn more",
+            "offices": {
+              "assemblyChair": {
+                "status": "filled",
+                "holder": ""
+              },
+              "chiefJustice": {
+                "status": "not-filled",
+                "holder": ""
+              },
+              "associateJustice1": {
+                "status": "not-filled",
+                "holder": ""
+              },
+              "associateJustice2": {
+                "status": "not-filled",
+                "holder": ""
+              },
+              "sheriff": {
+                "status": "not-filled",
+                "holder": ""
+              },
+              "countyClerk": {
+                "status": "not-filled",
+                "holder": ""
+              },
+              "courtClerk": {
+                "status": "not-filled",
+                "holder": ""
+              }
+            },
+            "lastUpdated": "September 2, 2026"
+          },
+          "Wilson": {
+            "population": "51,070",
+            "established": "February 13, 1860",
+            "countySeat": "Floresville",
+            "districtId": "district-03"
+          },
+          "Winkler": {
+            "population": "7,791",
+            "established": "February 26, 1887",
+            "countySeat": "Kermit",
+            "districtId": "district-01"
+          },
+          "Wise": {
+            "population": "68,632",
+            "established": "December 21, 1856",
+            "countySeat": "Decatur",
+            "districtId": "district-02"
+          },
+          "Wood": {
+            "population": "44,843",
+            "established": "December 11, 1850",
+            "countySeat": "Quitman",
+            "districtId": "district-02"
+          },
+          "Yoakum": {
+            "population": "7,694",
+            "established": "August 21, 1876",
+            "countySeat": "Plains",
+            "districtId": "district-01"
+          },
+          "Young": {
+            "population": "18,010",
+            "established": "February 1, 1856",
+            "countySeat": "Graham",
+            "districtId": "district-02"
+          },
+          "Zapata": {
+            "population": "13,889",
+            "established": "January 22, 1858",
+            "countySeat": "Zapata",
+            "districtId": "district-03"
+          },
+          "Zavala": {
+            "population": "11,840",
+            "established": "February 1, 1858",
+            "countySeat": "Crystal City",
+            "districtId": "district-03"
+          }
+        },
+        "districts": {
+          "district-01": {
+            "id": "district-01",
+            "name": "District 01",
+            "color": "#0000ff"
+          },
+          "district-02": {
+            "id": "district-02",
+            "name": "District 02",
+            "color": "#8f8f8f"
+          },
+          "district-03": {
+            "id": "district-03",
+            "name": "District 03",
+            "color": "#ed1c24"
+          }
+        },
+        "activeDistrictId": "",
+        "statePage": {
+          "title": "Texas state Republic",
+          "population": "29,168,331",
+          "admitted": "12/29/1845",
+          "settledOnLand": "",
+          "sealImage": "/texas-state-seal.png",
+          "offices": {
+            "governor": {
+              "status": "filled",
+              "holder": ""
+            },
+            "lieutenantGovernor": {
+              "status": "filled",
+              "holder": ""
+            },
+            "chaplin": {
+              "status": "filled",
+              "holder": ""
+            },
+            "chiefJustice": {
+              "status": "filled",
+              "holder": ""
+            },
+            "associateJustice2": {
+              "status": "filled",
+              "holder": ""
+            },
+            "associateJustice3": {
+              "status": "filled",
+              "holder": ""
+            },
+            "secretaryOfState": {
+              "status": "filled",
+              "holder": ""
+            },
+            "attorneyGeneral": {
+              "status": "filled",
+              "holder": ""
+            },
+            "treasurer": {
+              "status": "filled",
+              "holder": ""
+            },
+            "supremeCourtClerk": {
+              "status": "filled",
+              "holder": ""
+            },
+            "assemblyClerk": {
+              "status": "not-filled",
+              "holder": ""
+            },
+            "senator1": {
+              "status": "filled",
+              "holder": ""
+            },
+            "senator2": {
+              "status": "not-filled",
+              "holder": ""
+            },
+            "representative": {
+              "status": "filled",
+              "holder": ""
+            }
+          },
+          "lastUpdated": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+.county-details-panel { min-height: 100%; }
+
+.panel-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: .7rem;
+  padding: 1.1rem 1rem .9rem;
+  border-bottom: 1px solid var(--line);
+  background: linear-gradient(135deg, #fffdf8, #efe7d5);
+}
+.panel-header h2 { margin: 0; font-family: Georgia, serif; font-size: 1.25rem; line-height: 1.12; }
+.close-btn { width: 34px; height: 34px; flex: 0 0 34px; border: 1px solid var(--line); border-radius: 50%; background: #fffdf8; color: var(--muted); font-size: 1.25rem; line-height: 1; }
+.close-btn:hover { color: var(--red); border-color: #d9aaa5; }
+
+.panel-content { padding: 0 1rem 1rem; }
+.detail-section { padding: 1rem 0; border-bottom: 1px solid var(--line); }
+.detail-section h3 { margin: 0 0 .75rem; font-size: .86rem; }
+.detail-section:last-of-type { border-bottom: 0; }
+
+.clickable-toggle { display: flex; gap: .65rem; align-items: flex-start; }
+.clickable-toggle input { width: auto; margin-top: .18rem; accent-color: var(--green); }
+.clickable-toggle span { display: grid; gap: .15rem; }
+.clickable-toggle strong { font-size: .82rem; }
+.clickable-toggle small, .character-count { color: var(--muted); font-size: .69rem; }
+.character-count { text-align: right; }
+.text-action { padding: 0; border: 0; background: none; color: var(--green); font-size: .71rem; font-weight: 700; }
+.save-county { margin-top: .8rem; }
+
+.preview-card .panel-content { padding-top: 1rem; }
+.public-description { margin: 0; color: #34403b; font-size: .95rem; line-height: 1.65; white-space: pre-wrap; }
+.empty-public-message { margin: 0; padding: .8rem; border-radius: 8px; background: #f2eee3; color: var(--muted); font-size: .8rem; line-height: 1.5; }
+.public-link { display: block; text-align: center; text-decoration: none; margin-top: 1rem; }
+.facts-edit-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 .55rem; }
+.field-help { margin: -.35rem 0 .7rem; color: var(--muted); font-size: .7rem; line-height: 1.4; }
+.office-editor { display: grid; gap: .8rem; }
+.office-edit-row { display: grid; gap: .32rem; padding-bottom: .75rem; border-bottom: 1px dashed var(--line); }
+.office-edit-row label { font-size: .72rem; font-weight: 750; line-height: 1.35; }
+.office-edit-row select, .office-edit-row input { padding: .55rem .6rem; font-size: .73rem; }
+
+.county-public-profile { min-height: 100%; padding: 1.35rem 1rem 1.6rem; color: white; background: #11a5e8; text-align: center; }
+.public-profile-heading { position: relative; }
+.public-profile-heading h2 { margin: 0 2rem 1.25rem; color: white; font-family: Georgia, serif; font-size: 2rem; font-style: italic; }
+.public-close { position: absolute; right: 0; top: -.55rem; width: 34px; height: 34px; border: 1px solid rgba(255,255,255,.55); border-radius: 50%; background: rgba(0,66,119,.2); color: white; font-size: 1.25rem; }
+.county-facts { display: grid; grid-template-columns: 1fr 1fr; gap: .55rem .8rem; margin: 0 0 1.35rem; text-align: left; }
+.county-facts div { display: grid; grid-template-columns: auto 1fr; gap: .3rem; min-width: 0; }
+.county-facts dt { font-size: 1rem; }
+.county-facts dd { margin: 0; font-size: 1rem; font-weight: 800; overflow-wrap: anywhere; }
+.county-public-profile h3 { margin: 1rem 0 .9rem; color: white; font-family: Georgia, serif; font-size: 1.7rem; font-style: italic; }
+.office-list { display: grid; gap: .35rem; }
+.office-list p { margin: 0; font-size: 1rem; line-height: 1.5; }
+.office-list strong { text-shadow: 0 1px 1px rgba(255,255,255,.65); }
+.county-public-description { margin: 1rem auto 0; max-width: 44rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,.35); white-space: pre-wrap; font-size: .78rem; line-height: 1.55; }
+.last-update { margin: 1.35rem 0 0; font-size: .9rem; }
+.last-update strong { color: #dce16b; }
+.seal-preview { display: block; width: 110px; height: 110px; margin: .5rem auto .75rem; object-fit: contain; border-radius: 50%; background: white; box-shadow: 0 4px 14px rgba(0,0,0,.15); }
+.public-seal { display: block; width: 120px; height: 120px; margin: 0 auto .8rem; object-fit: contain; border-radius: 50%; background: white; box-shadow: 0 6px 22px rgba(0,0,0,.2); }
+.state-facts { margin: 0 auto 1.7rem; font-size: 1.15rem; line-height: 1.45; }
+.state-facts p { margin: 0; }
+.state-office-list { max-width: 760px; margin: auto; }
+.state-public-profile { min-height: calc(100vh - 118px); }
+@media (max-width: 480px) { .facts-edit-grid, .county-facts { grid-template-columns: 1fr; } }

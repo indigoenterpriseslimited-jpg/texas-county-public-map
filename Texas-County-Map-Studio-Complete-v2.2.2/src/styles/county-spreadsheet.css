@@ -1,0 +1,18 @@
+.county-sheet { min-height: calc(100vh - 118px); background: #fbf8f0; }
+.sheet-heading { display: flex; justify-content: space-between; gap: 1rem; padding: 1.2rem; border-bottom: 1px solid var(--line); }
+.sheet-heading h2 { margin: 0; font-family: Georgia, serif; font-size: 1.45rem; }
+.sheet-heading p:not(.section-kicker) { margin: .25rem 0 0; color: var(--muted); font-size: .78rem; }
+.sheet-filters { display: grid; grid-template-columns: auto minmax(170px, 1fr) 150px; gap: .5rem; align-self: center; }
+.sheet-table-wrap { max-height: calc(100vh - 270px); overflow: auto; }
+.county-sheet table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+.county-sheet thead { position: sticky; top: 0; z-index: 2; background: #ece5d5; }
+.county-sheet th, .county-sheet td { padding: .52rem .65rem; border-bottom: 1px solid #e2dccf; text-align: left; vertical-align: middle; }
+.county-sheet tbody tr:nth-child(even) { background: rgba(235,229,215,.35); }
+.county-sheet tbody tr:hover { background: #f5eddc; }
+.county-sheet tbody th { white-space: nowrap; }
+.county-sheet select { min-width: 135px; padding: .52rem; font-size: .84rem; }
+.county-sheet input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--green); }
+.status-swatch { display: inline-block; width: .7rem; height: .7rem; margin-right: .45rem; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(0,0,0,.15); }
+.sheet-edit { padding: .5rem .65rem; font-size: .71rem; white-space: nowrap; }
+.sheet-count { margin: 0; padding: .7rem 1rem; color: var(--muted); font-size: .72rem; text-align: right; }
+@media (max-width: 780px) { .sheet-heading { flex-direction: column; } .sheet-filters { grid-template-columns: 1fr; } .sheet-table-wrap { max-height: none; } }
